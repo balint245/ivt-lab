@@ -1,0 +1,29 @@
+[33mcommit e2604c510a997c4dc61e72339f9708909dc6bfdf[m[33m ([m[1;36mHEAD -> [m[1;32mFix_testerrors[m[33m, [m[1;31morigin/Fix_testerrors[m[33m)[m
+Author: Sandor Balint <balint245@gmail.com>
+Date:   Fri Apr 12 12:54:44 2019 +0200
+
+    fire all method implemented
+
+[33mcommit 74903bc66c16f131f440b68458623cfc47340d55[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Sandor Balint <balint245@gmail.com>
+Date:   Fri Apr 12 12:42:43 2019 +0200
+
+    changes in readme file
+
+[33mcommit 8fad5b0b7de013446ec6b0df4089b40ac145dd4d[m
+Author: Sandor Balint <balint245@gmail.com>
+Date:   Fri Apr 12 12:40:45 2019 +0200
+
+    travis file added
+
+[33mcommit d006780de16d22033852a91f029ccef84d1689ba[m
+Author: Sandor Balint <balint245@gmail.com>
+Date:   Fri Apr 12 12:36:15 2019 +0200
+
+    first commit to project
+
+[33mcommit 28269d9147fe4d758633f08824c4848c391bf1f0[m
+Author: balint245 <balint245@gmail.com>
+Date:   Fri Apr 12 12:21:34 2019 +0200
+
+    Initial commit
